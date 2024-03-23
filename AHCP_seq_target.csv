@@ -1,0 +1,448 @@
+﻿Sequence,Target,Inhibition/IC50,Unit,Source
+DTHTTGGVAGRDTLRFTGFFSFGPKQK,Translation,No,NA,HCV core protein
+STLPETTVVRRRGRSPRRRT,Translation,No,NA,HBV core protein
+IPQSLDSWWTSL,Translation,No,NA,HBV long surface antigen (L-HBsAg)  
+IFSAIGGFLKSIF,Virucidal,No,NA,Scorpion venom
+MSTNPKPQRKTKRNTNRRPQDVKFPGGGQIVGGVY,Replication,Nil,-,HCV core protein
+MSTNPKPQRKTKRNTNRRPQDVKFPGGGQIVGGV,Replication,Nil,-,HCV core protein
+DVKFPGGGQIVGGVYL,Replication,Nil,-,HCV core protein
+NRRPQDVKFPGGGQIVGGVY,Replication,Nil,-,HCV core protein
+NRRPQDVKFPGGGQIVGGV,Replication,Nil,-,HCV core protein
+STLPLPP,HCV E2,Nil,-,Phage display
+FYHSKRRLIFSKRKP,Assembly,Nil,-,Host p21 protein
+GRKRRQTSMTDFYHS,Assembly,Nil,-,Host p21 protein
+SMTDFYHSKRRLIFS,Assembly,Nil,-,Host p21 protein
+AFKQSPPAIPALGTN,Assembly,Nil,-,Host p73 protein
+AIPALGTNVKKRRHG,Assembly,Nil,-,Host p73 protein
+QSPPAIPALGTNVKK,Assembly,Nil,-,Host p73 protein
+RRHGDEDMFYMHVRG,Assembly,Nil,-,Host p73 protein
+VKKRRHGDEDMFYMH,Assembly,Nil,-,Host p73 protein
+TSYHRSA,HCV E2,Medium,-,Phage display
+SVSVGMKPSPRP,HCV E2,Medium,-,Phage display
+SVSVGTKPRPRP,HCV E2,Medium,-,Phage display
+SVSWGMKPSPRQ,HCV E2,Medium,-,Phage display
+ARALAHGVRVLEDGVNYA,Assembly,Low,-,HCV core protein
+GAPLGGAARALAHGVRVL,Assembly,Low,-,HCV core protein
+LLPRRGPRLGVRATRKTS,Assembly,Low,-,HCV core protein
+MGYIPLVGAPLGGAARAL,Assembly,Low,-,HCV core protein
+MSTNPKPQRKTKRNTNRR,Assembly,Low,-,HCV core protein
+PEGRTWAQPGYPWPLYGN,Assembly,Low,-,HCV core protein
+PIPKARRPEGRTWAQPGY,Assembly,Low,-,HCV core protein
+QIVGGVYLLPRRGPRLGV,Assembly,Low,-,HCV core protein
+QPRGRRQPIPKARRPEGR,Assembly,Low,-,HCV core protein
+QRKTKRNTNRRPQDVKFP,Assembly,Low,-,HCV core protein
+RKTSERSQPRGRRQPIPK,Assembly,Low,-,HCV core protein
+RRRSRNLGKVIDTLTCGF,Assembly,Low,-,HCV core protein
+SPRGSRPSWGPTDPRRRS,Assembly,Low,-,HCV core protein
+SWGPTDPRRRSRNLGKVI,Assembly,Low,-,HCV core protein
+TNRRPQDVKFPGGGQIVG,Assembly,Low,-,HCV core protein
+VRVLEDGVNYATGNLPGC,Assembly,Low,-,HCV core protein
+DGSWSTVSSGADTED,Assembly,Low,-,HCV non-structural protein 5A
+PGDPDLSDGSWSTVSSGA,Assembly,Low,-,HCV non-structural protein 5A
+ATWVCGPCT,Virus entry,High,-,Phage Display
+AALEAKICHQIEYYFGDF,Translation,High,-,Human lupus autoantigen protein
+MSTNPKPQRKTKRNTNRRPQDVKFPGGGQIVGGVYL,Replication,High,-,HCV core protein
+TKRNTNRRPQDVKFPGGGQIVGGVYL,Replication,High,-,HCV core protein
+NRRPQDVKFPGGGQIVGGVYL,Replication,High,-,HCV core protein
+CHRCFHFRRHPVAVF,Immunostimulaton,High,-,Phage display
+TRHRHVPRFLPLRHV,Immunostimulaton,High,-,Phage display
+KYKETDL,Translation,High,-,Human lupus autoantigen protein
+TSQNIRS,HCV E2,High,-,Phage display
+GKVIDTLTCGFADLMGYI,Assembly,High,-,HCV core protein
+GWAGWLLSPRGSRPSWGP,Assembly,High,-,HCV core protein
+LYGNEGCGWAGWLLSPRG,Assembly,High,-,HCV core protein
+QPGYPWPLYGNEGCGWAG,Assembly,High,-,HCV core protein
+RLGVRATRKTSERSQPRG,Assembly,High,-,HCV core protein
+TCGFADLMGYIPLVGAPL,Assembly,High,-,HCV core protein
+VKFPGGGQIVGGVYLLPR,Assembly,High,-,HCV core protein
+TVSSGADTEDVVC,Assembly,High,-,HCV non-structural protein 5A
+MARHRNWPLVMV,Virus entry,High,-,Ribosome display library
+SSGLYHVTNDCPNSSIVY,Fusion,99.93,%,"HCV envelope glycoprotein (E1, E2)"
+FAIKWEYVLLLFLL,Virus entry,95,%,"HCV envelope glycoprotein (E1, E2)"
+AIKWEYVLLLFLL,Virus entry,92,%,"HCV envelope glycoprotein (E1, E2)"
+SFAIKWEYVLLLFLL,Virus entry,91,%,"HCV envelope glycoprotein (E1, E2)"
+KKKKVVAATLVLF,NS3 protease,9,%,HCV polyprotein
+KKKKLLAPFLVFF,NS3 protease,9,%,HCV polyprotein
+ADLEVVAATYVDDD,NS3 protease,9,%,HCV polyprotein
+DDSVVAAMSYSYA,NS3 protease,9,%,HCV polyprotein
+IKWEYVLLLFLL,Virus entry,88,%,"HCV envelope glycoprotein (E1, E2)"
+YPGHITGHRMANMMMNW,Fusion,86.19,%,"HCV envelope glycoprotein (E1, E2)"
+RRGRTGRGRRGIYR,Replication,82.85±7.28,EC50 (μM),HCV non-structural protein 3
+WEYVLLLFLL,Virus entry,82,%,"HCV envelope glycoprotein (E1, E2)"
+SPQYWTGPA,Virus entry,81,%,Phage Display
+KYKETDLLILFKDDYFAKKNEERK,Translation,80-95,%,Human lupus autoantigen protein
+LYGNEGCGWAGWLLSPRG,Oligomerization,80,%,Synthetic
+MSTNPKPQRKTKRNTNRRPQ,Translation,80,%,HCV core protein
+FILAFLGWIGAIVSTALP,Virus entry,8.9±1.0,μM,Human claudin-1 (CLDN1)
+KKKKLVAATYVFV,NS3 protease,8,%,HCV polyprotein
+KKKKVVAAFYVLF,NS3 protease,8,%,HCV polyprotein
+KKKKVLAPFLFFF,NS3 protease,8,%,HCV polyprotein
+KKKKLLLAFLFLF,NS3 protease,8,%,HCV polyprotein
+KKKKVVAATYKKKK,NS3 protease,8,%,HCV polyprotein
+ADLEVVAATYAAAA,NS3 protease,8,%,HCV polyprotein
+KKKKVVAATYVLT,NS3 protease,8,%,HCV polyprotein
+CGSVFLVGQLFTFSPRHH,Fusion,79.46,%,"HCV envelope glycoprotein (E1, E2)"
+KWEYVLLLFLL,Virus entry,78,%,"HCV envelope glycoprotein (E1, E2)"
+LLRIPQAIMDMIAGAHWG,Fusion,71.09,%,"HCV envelope glycoprotein (E1, E2)"
+MANAGLQLLGFILAFL,Virus entry,7.6±0.9,μM,Human claudin-1 (CLDN1)
+TWLRAIWDWVCTALTDFK,Viral membrane,7.1,μM,HCV non-structural protein 5A
+KKKKVVAAFYFLV,NS3 protease,7,%,HCV polyprotein
+ADLEVVAATYKKKK,NS3 protease,7,%,HCV polyprotein
+KKKKVVAALYVLV,NS3 protease,7,%,HCV polyprotein
+SWLWEVWDWVLHVLSDFK,Viral membrane,7,μM,HCV non-structural protein 5A
+AKDLEVVCSTYVLVEA,NS3 protease,64,%,HCV polyprotein
+VSFAIKWEYVLLLFL,Virus entry,63,%,"HCV envelope glycoprotein (E1, E2)"
+SWLRDIWDWICKVLSDFK,Viral membrane,6.8,μM,HCV non-structural protein 5A
+ACFPWGNQWCGGK,RdRp,6,μM,Phage display
+KKKKVVAATGVLV,NS3 protease,6,%,HCV polyprotein
+KKKKLVLPFLFFV,NS3 protease,6,%,HCV polyprotein
+KKKKAVAATYVLV,NS3 protease,59,%,HCV polyprotein
+ADLEVVAATYVDVA,NS3 protease,54,%,HCV polyprotein
+AECVVSCSMSYTKA,NS3 protease,52,%,HCV polyprotein
+AKDLEVVTSTYVLVEA,NS3 protease,51,%,HCV polyprotein
+GIKYFSMVGNWAKVLVVL,Fusion,50.39,%,"HCV envelope glycoprotein (E1, E2)"
+CFPWGC,RdRp,50,μM,Phage display
+GWAGWLLSPRGSRPS,Oligomerization,50,%,Synthetic
+KGSVVIVGRIILSGRK,NS2/3 protease,5.7,μM,HCV non-structural protein 4A
+MANAGLQLLGFILAFLGWIGAIVS,Virus entry,5.1±0.6,μM,Human claudin-1 (CLDN1)
+KKKKVVLATLVLV,NS3 protease,5,%,HCV polyprotein
+KKKKVVAATYFFFA,NS3 protease,5,%,HCV polyprotein
+AKLKVVAATYVLKK,NS3 protease,5,%,HCV polyprotein
+KKKKVVAAEYVLV,NS3 protease,5,%,HCV polyprotein
+LLDCWVRLGRYLLRRLK,Virus entry,5,μM,GBVA non-structutal protein 5A
+PRPISYLKGSSGGPL,Translation,5,μmol/l,HCV NS3 Protease
+IFKAIWSGIKSLF,Virucidal,5,μM,Scorpion venom
+RHIDLLVGSATLCSALYV,Fusion,49.08,%,"HCV envelope glycoprotein (E1, E2)"
+ADLEVVAATFVLVA,NS3 protease,49,%,HCV polyprotein
+VSFAIKWEYVLLLF,Virus entry,49,%,"HCV envelope glycoprotein (E1, E2)"
+VSFAIKWEYVLLL,Virus entry,49,%,"HCV envelope glycoprotein (E1, E2)"
+AAQRRGRVGRNPNQVGD,Replication,442±17.7,μM,JEV NS3 helicase protein
+ADLEVVAATYVLDD,NS3 protease,44,%,HCV polyprotein
+VSFAIKWEYVLL,Virus entry,44,%,"HCV envelope glycoprotein (E1, E2)"
+GQLFTFSPRHHWTTQDCN,Fusion,43.2,%,"HCV envelope glycoprotein (E1, E2)"
+SIVYEAADAILHTPGCVP,Fusion,42.32,%,"HCV envelope glycoprotein (E1, E2)"
+RIGRNPSQVGD,Replication,417±17.6,μM,WNV NS3 helicase protein
+KKKKLVLPFLFVF,NS3 protease,40,%,HCV polyprotein
+KKKKVVKATYVLV,NS3 protease,40,%,HCV polyprotein
+SWLDDIWDWICEVLSDFE,Viral membrane,4.7,μM,HCV non-structural protein 5A
+LLGFILAFLGWIGAIVST,Virus entry,4.3±0.3,μM,Human claudin-1 (CLDN1)
+SWLRDIWDWACEVLSDFK,Virus entry,4.00±0.36,μM,HCV non-structural protein 5A
+MANAGLQLLGFILAFLGWIGAI,Virus entry,4.0±0.3,μM,Human claudin-1 (CLDN1)
+KKKKLLAPFLFFV,NS3 protease,4,%,HCV polyprotein
+KKKKLLLAFLFFV,NS3 protease,4,%,HCV polyprotein
+KKKKLLLPFLFLF,NS3 protease,4,%,HCV polyprotein
+KKKKLLLPFLVLF,NS3 protease,4,%,HCV polyprotein
+KKKKVVAATYFLVA,NS3 protease,4,%,HCV polyprotein
+KKKKVVAATYKKVA,NS3 protease,4,%,HCV polyprotein
+KKKKVVAATEVLV,NS3 protease,4,%,HCV polyprotein
+SWRLIDWDWICEVLSDFK,Viral membrane,4,μM,HCV non-structural protein 5A
+CLRVRLASHLRKLRKRLLRDADDL,Virus entry,4,μM,Human apolipoprotein (apoE)
+LDCWVRLGRYLLRRLKTP,Virus entry,4,μM,GBVA non-structutal protein 5A
+ADLEVVAATYVLVD,NS3 protease,38,%,HCV polyprotein
+RVGRNPNQVGD,Replication,374±12.8,μM,JEV NS3 helicase protein
+ACFPWGNQWCGGK,RdRp,37,μM,Phage display
+AAQRRGRIGRNPSQVGD,Replication,358±13.2,μM,WNV NS3 helicase protein
+RTGRGRRGIYR,Replication,34.6±3.2,μM,HCV NS3 helicase protein
+KKKKVVFATYVLV,NS3 protease,34,%,HCV polyprotein
+MMNWSPTAALVVAQLLRI,Fusion,33.39,%,"HCV envelope glycoprotein (E1, E2)"
+ADLEVVAATYVLVA,NS3 protease,33,%,HCV polyprotein
+KKKKVAAATYVLV,NS3 protease,32,%,HCV polyprotein
+KKKKVVLATYVLV,NS3 protease,32,%,HCV polyprotein
+KKKKVTAATYVLV,NS3 protease,32,%,HCV polyprotein
+RGRRGIYR,Replication,313±11.3,μM,HCV NS3 helicase protein
+PRHHWTTQDCNCSIYPGH,Fusion,31.28,%,"HCV envelope glycoprotein (E1, E2)"
+DDSVVSAAMSYSYA,NS3 protease,31,%,HCV polyprotein
+KKKKVVAGTYVLV,NS3 protease,30,%,HCV polyprotein
+KKKKVVAATYVLVA,NS3 protease,30,%,HCV polyprotein
+KKKKLLAAFLFFF,NS3 protease,30,%,HCV polyprotein
+KKKKLLLAFYFFF,NS3 protease,30,%,HCV polyprotein
+KKKKFVAATYVLV,NS3 protease,30,%,HCV polyprotein
+SWLRDVWDWICTVLTDFK,Viral membrane,3.9,μM,HCV non-structural protein 5A
+SWLRDVWDWVCTVLSDFK,Viral membrane,3.5,μM,HCV non-structural protein 5A
+RGGSVVIVGRIILSGRK,NS2/3 protease,3.4,μM,HCV non-structural protein 4A
+KKKKVPAATYVLV,NS3 protease,3,%,HCV polyprotein
+KKKKVVAPTLVLV,NS3 protease,3,%,HCV polyprotein
+KKKKLLLPTYFFF,NS3 protease,3,%,HCV polyprotein
+KKKKLLLPTLVFF,NS3 protease,3,%,HCV polyprotein
+KKKKVVAAFYVLV,NS3 protease,3,%,HCV polyprotein
+LLDCWVRLGRYLLRRLKTP,Virus entry,3,μM,GBVA non-structutal protein 5A
+ADLEVVAATHVLVA,NS3 protease,29,%,HCV polyprotein
+KKKKVVLPFLFFF,NS3 protease,29,%,HCV polyprotein
+KKKKLVLPTLFFF,NS3 protease,29,%,HCV polyprotein
+DDSVVCAAMSYSFA,NS3 protease,29,%,HCV polyprotein
+KKKKVVAATFVLV,NS3 protease,28,%,HCV polyprotein
+RTQRRGRTGRGKPGIYR,Replication,27.1±2.4,μM,HCV NS3 helicase protein
+KKKKVLLPFYFFF,NS3 protease,27,%,HCV polyprotein
+KKKKTVAATYVLV,NS3 protease,27,%,HCV polyprotein
+HRMANMMMNWSPTAALV,Fusion,26.6,%,"HCV envelope glycoprotein (E1, E2)"
+DDSVVCAAMSYSHA,NS3 protease,26,%,HCV polyprotein
+KKKKVVAATYLLV,NS3 protease,26,%,HCV polyprotein
+KKKKVFAATYVLV,NS3 protease,26,%,HCV polyprotein
+GELGRPVYVLGDPGYYATHCIYATTNDALIFSV,Replication,25.6±3.5,nM,Synthetic
+KKKKVVAATYVLL,NS3 protease,25,%,HCV polyprotein
+KKKKVKAATYVLV,NS3 protease,25,%,HCV polyprotein
+STQRRGRTGRGRRGIYR,Replication,24.3±1.8,μM,HCV NS3 helicase protein
+KKKKPVAATYVLV,NS3 protease,24,%,HCV polyprotein
+KKKKLLLPFYFFF,NS3 protease,24,%,HCV polyprotein
+GAIVSTALPQWRIYSYAG,Virus entry,23.8±2.1,μM,Human claudin-1 (CLDN1)
+RQIKINFQNRRMKNKKGELDELVYLLDGPGYDPIHS,Replication,23.6,nM,Synthetic
+KKKKVVAFTYVLV,NS3 protease,23,%,HCV polyprotein
+KKKKVVAATTVLV,NS3 protease,23,%,HCV polyprotein
+GELGRPVYVLGDPGYYAT,Replication,227.6,nM,Synthetic
+ALYVGDLCGSVFLVGQLF,Fusion,22.87,%,"HCV envelope glycoprotein (E1, E2)"
+GELDELVYLLDGPGYDPIHS,Replication,22.8,nM,Synthetic
+ACFPWGKEYCGGK,RdRp,22,μM,Phage display
+DDSVVCAAMSYSYA,NS3 protease,22,%,HCV polyprotein
+KKKKLLLPFYFLF,NS3 protease,22,%,HCV polyprotein
+ADLEVVAATYVLDA,NS3 protease,22,%,HCV polyprotein
+DDSVVAAMSYSHA,NS3 protease,22,%,HCV polyprotein
+GWIGAIVSTALPQWRIYS,Virus entry,21.5±1.9,μM,Human claudin-1 (CLDN1)
+KDLKVVAATYVKKK,NS3 protease,21,%,HCV polyprotein
+KKKKVVAATYVAV,NS3 protease,21,%,HCV polyprotein
+GELGRLVYLLDGPGYDPIHCSLAYGDASTLVVF,Replication,20.7±3.6,nM,Synthetic
+KKKKVVAAFLVLV,NS3 protease,20,%,HCV polyprotein
+ADLEVVAATYVDDA,NS3 protease,20,%,HCV polyprotein
+MANAGLQLLGFILAFLGW,Virus entry,2.1±0.5,μM,Human claudin-1 (CLDN1)
+SWLRDVWDWVCTILTDFK,Viral membrane,2.1,μM,HCV non-structural protein 5A
+KKKKVVAAGYVLV,NS3 protease,2,%,HCV polyprotein
+KKKKLLLPTLFFV,NS3 protease,2,%,HCV polyprotein
+KKKKLVLATYVLV,NS3 protease,2,%,HCV polyprotein
+KKKKVVAPFYVLV,NS3 protease,2,%,HCV polyprotein
+KKKKVLLPFLFFF,NS3 protease,2,%,HCV polyprotein
+ADLEVVAATYVKKK,NS3 protease,2,%,HCV polyprotein
+KKKKEVAATYVLV,NS3 protease,2,%,HCV polyprotein
+DDSVVAAMSYSFA,NS3 protease,2,%,HCV polyprotein
+CWVRLGRYLLRRLKTPFT,Virus entry,2,μM,GBVA non-structutal protein 5A
+RRGRVGRNPNQVGD,Replication,196±9.4,μM,JEV NS3 helicase protein
+WVAVTPTVATRDGKLPTT,Fusion,19.29,%,"HCV envelope glycoprotein (E1, E2)"
+KKKKLLLPFLFFF,NS3 protease,19,%,HCV polyprotein
+ADLEVVAATYVDVD,NS3 protease,19,%,HCV polyprotein
+KKKKVVAAAYVLV,NS3 protease,19,%,HCV polyprotein
+KKKKVVAATYVLA,NS3 protease,19,%,HCV polyprotein
+KKKKVVAETYVLV,NS3 protease,19,%,HCV polyprotein
+KKKKLVAAFYVLV,NS3 protease,18,%,HCV polyprotein
+KKKKLVLAFLFFF,NS3 protease,18,%,HCV polyprotein
+KKKKLVLPFLLFF,NS3 protease,18,%,HCV polyprotein
+MANAGLQLLGFILAFLGWIG,Virus entry,17.8±1.1,μM,Human claudin-1 (CLDN1)
+KKKKVVAATYVLV,NS3 protease,17,%,HCV polyprotein
+VSFAIKWEYVL,Virus entry,17,%,"HCV envelope glycoprotein (E1, E2)"
+RRGRIGRNPSQVGD,Replication,169±6.8,μM,WNV NS3 helicase protein
+KKKKLLLAFLFFF,NS3 protease,16,%,HCV polyprotein
+KKKKLLLATLFFF,NS3 protease,16,%,HCV polyprotein
+KKKKVVATTYVLV,NS3 protease,16,%,HCV polyprotein
+ACFPWGNTWCGGK,RdRp,150,μM,Phage display
+ACFPWGKEYCGGK,RdRp,150,μM,Phage display
+CFPWGC,RdRp,150,μM,Phage display
+AHWGVLAGIKYFSMVGNW,Fusion,15.34,%,"HCV envelope glycoprotein (E1, E2)"
+ADLEVVAATYV,NS3 protease,15,%,HCV polyprotein
+KKKKVVAPTYFLV,NS3 protease,15,%,HCV polyprotein
+KKKKVVAPTYVLF,NS3 protease,15,%,HCV polyprotein
+KKKKLVAPFLFFF,NS3 protease,15,%,HCV polyprotein
+KKKKVVAATYVFV,NS3 protease,15,%,HCV polyprotein
+GWAGWLLSPRGSRPSWGP,Oligomerization,15,%,Synthetic
+LLDCWVRLGRYLLRRLKTPFTRL,Virus entry,15,μM,GBVA non-structutal protein 5A
+KKKKVVAATYVGV,NS3 protease,14,%,HCV polyprotein
+KKKKLVAATYVLF,NS3 protease,14,%,HCV polyprotein
+KKKKLLAPFLFFF,NS3 protease,14,%,HCV polyprotein
+KKKKLVLPFYFFF,NS3 protease,14,%,HCV polyprotein
+DDSVVSAAMSYSFA,NS3 protease,14,%,HCV polyprotein
+KKKKVVAATYFLV,NS3 protease,14,%,HCV polyprotein
+KKKKVVGATYVLV,NS3 protease,14,%,HCV polyprotein
+VRLGSISVIGIVRGKK,NS2/3 protease,137,μM,HCV non-structural protein 4A
+SWLRDIWDWISEVLSDFK,Viral membrane,13.5,μM,HCV non-structural protein 5A
+WVAVTPTVATRDGKLPTT,Fusion,13.16,%,"HCV envelope glycoprotein (E1, E2)"
+ACFPWGNTWCGGK,RdRp,13,μM,Phage display
+KKKKVVAATYVLG,NS3 protease,13,%,HCV polyprotein
+KKKKVVAATYVKKA,NS3 protease,13,%,HCV polyprotein
+KKKKVVAATAVLV,NS3 protease,13,%,HCV polyprotein
+SWLRDIWDWIEEVLSDFK,Viral membrane,13,μM,HCV non-structural protein 5A
+GELGRLVYLLDGPGYDPI,Replication,125.4,nM,Synthetic
+GELGRLVYLLDGPGYDPIHCD,Replication,124,nM,Synthetic
+AFLGWIGAIVSTALPQWR,Virus entry,12.5±1.5,μM,Human claudin-1 (CLDN1)
+SWLRDIWDWIREVLSDFK,Viral membrane,12.5,μM,HCV non-structural protein 5A
+KKKKLVLPFLFFF,NS3 protease,12,%,HCV polyprotein
+KKKKVVAATYVLVF,NS3 protease,12,%,HCV polyprotein
+KKKKVVAATYVLFA,NS3 protease,12,%,HCV polyprotein
+KKKKVLAATYVLV,NS3 protease,12,%,HCV polyprotein
+KKKKVVAKTYVLV,NS3 protease,12,%,HCV polyprotein
+AALEAKICHQIEYYFGDF,Translation,12,μg,Human lupus autoantigen protein
+CWVRLGRYLLRRLKTPFTRL,Virus entry,12,μM,GBVA non-structutal protein 5A
+DCWVRLGRYLLRRLKTPF,Virus entry,12,μM,GBVA non-structutal protein 5A
+WVRLGRYLLRRLKTPFTR,Virus entry,12,μM,GBVA non-structutal protein 5A
+AALVVAQLLRIPQAIMDM,Fusion,11.49,%,"HCV envelope glycoprotein (E1, E2)"
+GELGRLVYLLDGPGYDPIHCDVVTRGGSHLFNF,Replication,11.3±1.6,nM,Synthetic
+SWLRDIWDWICEVL,Viral membrane,11.3,μM,HCV non-structural protein 5A
+LVVLLLFAGVDAETHVTG,Fusion,10.58,%,"HCV envelope glycoprotein (E1, E2)"
+KKKKVVAATYVPV,NS3 protease,10,%,HCV polyprotein
+KKKKVVLAFYVLV,NS3 protease,10,%,HCV polyprotein
+LLDCWVRLGRYLLRRLKT,Virus entry,10,μM,GBVA non-structutal protein 5A
+FLGFLKNLF,Virucidal,1.84,EC50(μg/ml),Scorpion venom
+SGSWLRDIWDWICEVLSDFK,Viral membrane,1.7,μM,HCV non-structural protein 5A
+SWLRDIWDWICEVLSDFKT,Viral membrane,1.7,μM,HCV non-structural protein 5A
+SWLDRIWRWICKVLSRFE,Viral membrane,1.7,μM,HCV non-structural protein 5A
+SWLRDIWDWVCEVLSDFK,Virus entry,1.40±0.17,μM,HCV non-structural protein 5A
+SWLRDLWDWLCEVLSDFK,Virus entry,1.40±0.15,μM,HCV non-structural protein 5A
+SWLRDLWDWICEVLSDFK,Virus entry,1.40±0.13,μM,HCV non-structural protein 5A
+SWLRDLWDWLCELLSDFK,Virus entry,1.20±0.14,μM,HCV non-structural protein 5A
+SWLRDIWDWICELLSDFK,Virus entry,1.20±0.11,μM,HCV non-structural protein 5A
+SWLRDIWDWLCEVLSDFK,Virus entry,1.20±0.09,μM,HCV non-structural protein 5A
+SWLRDIWDWLCEVLSDFK,Virus entry,1.20±0.09,μM,HCV non-structural protein 5A
+GELDELVYLLDGPGYDPIHCDVVTRGGSRLFNF,Replication,1.14±0.053,nM,Synthetic
+TNDCPNSSVVYEAADAIL,Fusion,1.12,%,"HCV envelope glycoprotein (E1, E2)"
+FLGFLHHLF,Virucidal,1.08,EC50(μg/ml),Scorpion venom
+KKKKVLAPTYVLV,NS3 protease,1,%,HCV polyprotein
+DDDEVVAATYVLVA,NS3 protease,1,%,HCV polyprotein
+KKKKVVAATYVLF,NS3 protease,1,%,HCV polyprotein
+KKKKVVTATYVLV,NS3 protease,1,%,HCV polyprotein
+SWLRDIWDWICEVLSD,Viral membrane,0.98,μM,HCV non-structural protein 5A
+SWLRRIWRWICKVLSRFK,Viral membrane,0.89,μM,HCV non-structural protein 5A
+KFDSLVECIWDWIDRLWS,Viral membrane,0.85,μM,HCV non-structural protein 5A
+FLHFLHHLF,Virucidal,0.85,EC50(μg/ml),Scorpion venom
+SWLRDIWRWICKVLSRFK,Viral membrane,0.84,μM,HCV non-structural protein 5A
+SWLRDIWDWLCELLSDFK,Virus entry,0.82±0.10,μM,HCV non-structural protein 5A
+SWLRDIWDWICEVLSDFK,Virus entry,0.80±0.09,μM,HCV non-structural protein 5A
+CVRLASHLRKLRKRLLRDADDLQKRLAVY,Virus entry,0.8,μM,Human apolipoprotein (apoE)
+SWLRDIWDWICEVLSDFK,Viral membrane,0.79,μM,HCV non-structural protein 5A
+SWLRDIWDWICEVLSDFK,Viral membrane,0.79,μM,HCV non-structural protein 5A
+SWLRDLWDWICELLSDFK,Virus entry,0.78±0.07,μM,HCV non-structural protein 5A
+EELRVRLASHLRKLRKRLLRDADDLQKRLAVYEEQAQQIRLQAEAFQARLKSWFEPLVEDM,Virus entry,0.67,μM,Human apolipoprotein (apoE)
+DWLRIIWDWVCSVVSDFK,Viral membrane,0.55,μM,HCV non-structural protein 5A
+GSATLCSALYVGDLCGSV,Fusion,0.55,%,"HCV envelope glycoprotein (E1, E2)"
+GSWLRDIWDWICEVLSDFK,Viral membrane,0.51,μM,HCV non-structural protein 5A
+SWLRDIWDWICEVLSDFKTW,Viral membrane,0.51,μM,HCV non-structural protein 5A
+KWLCRIWSWISDVLDDFE,Viral membrane,0.5,μM,HCV non-structural protein 5A
+CEELRVRLASHLRKLRKRLLRDADDLQKRLAVY,Virus entry,0.5,μM,Human apolipoprotein (apoE)
+KFDSLVECIWDWIDRLWS,Viral membrane,0.48,μM,HCV non-structural protein 5A
+SIWRDWVDLICEFLSDWK,Viral membrane,0.4,μM,HCV non-structural protein 5A
+IMDMIAGAHWGVLAGIKY,Fusion,0.32,%,"HCV envelope glycoprotein (E1, E2)"
+SAYQVRNSSGLYHVTNDC,Fusion,0.23,%,"HCV envelope glycoprotein (E1, E2)"
+RRGRTGRGRRGIYR,Replication,0.2±0.01,μM,HCV NS3 helicase protein
+KKKKVVAATYGLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAAPYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAPTYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATPVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYPLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVLP,NS3 protease,0,%,HCV polyprotein
+KKKKLLLPFLFFV,NS3 protease,0,%,HCV polyprotein
+KKKKLLLPFLFLV,NS3 protease,0,%,HCV polyprotein
+KKKKVLLPFLFFV,NS3 protease,0,%,HCV polyprotein
+KKKKLLLPFYFFV,NS3 protease,0,%,HCV polyprotein
+KKKKLLLPFLVFV,NS3 protease,0,%,HCV polyprotein
+KKKKLLAATYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKLVAPTYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVLLATYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVLAAFYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVLAATLVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVLAATYFLV,NS3 protease,0,%,HCV polyprotein
+KKKKVLAATYVFV,NS3 protease,0,%,HCV polyprotein
+KKKKVVLPTYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVLATYVLF,NS3 protease,0,%,HCV polyprotein
+DLEVVAATYV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAPTYVFV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAAFYVFV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATLFLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATLVFV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYFFV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVFF,NS3 protease,0,%,HCV polyprotein
+KKKKLLLPTLFFF,NS3 protease,0,%,HCV polyprotein
+DDDEVVAATYVA,NS3 protease,0,%,HCV polyprotein
+KKKKLLLPFLVFF,NS3 protease,0,%,HCV polyprotein
+KKKKLLLPFYVFF,NS3 protease,0,%,HCV polyprotein
+KKKKVLLAFLFFF,NS3 protease,0,%,HCV polyprotein
+KKKKVLLPFLLFF,NS3 protease,0,%,HCV polyprotein
+KKKKVLLPFLFVF,NS3 protease,0,%,HCV polyprotein
+ADLEVVAATYVDDD,NS3 protease,0,%,HCV polyprotein
+KKKKLLLPTLFLF,NS3 protease,0,%,HCV polyprotein
+AESTTPCSGSYLKA,NS3 protease,0,%,HCV polyprotein
+EDCSTPSSGSFLDR,NS3 protease,0,%,HCV polyprotein
+KKKKVVTSTYVLVEA,NS3 protease,0,%,HCV polyprotein
+FDEMEESSSHLPYI,NS3 protease,0,%,HCV polyprotein
+AKDEMEECASHLPYEA,NS3 protease,0,%,HCV polyprotein
+DEMEEC,NS3 protease,0,%,HCV polyprotein
+DEMEECASHLPYK,NS3 protease,0,%,HCV polyprotein
+FDEMEECSQHLPYA,NS3 protease,0,%,HCV polyprotein
+FDEMEECASHLPYA,NS3 protease,0,%,HCV polyprotein
+SEDVVSSSMSYTFT,NS3 protease,0,%,HCV polyprotein
+DEVVCC,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVLVA,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVLKK,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVLVK,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVFVA,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYKKKA,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYKLKA,NS3 protease,0,%,HCV polyprotein
+AKLKVVAATYVKKK,NS3 protease,0,%,HCV polyprotein
+AKLEVVAATYVKKK,NS3 protease,0,%,HCV polyprotein
+AKLEVVAATYKKKK,NS3 protease,0,%,HCV polyprotein
+ADKEVVAATYVKKK,NS3 protease,0,%,HCV polyprotein
+ADLKVVAATYVLVA,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYALV,NS3 protease,0,%,HCV polyprotein
+KKKKLVAATYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVALTYVLV,NS3 protease,0,%,HCV polyprotein
+DDSVVSAAMSYSHA,NS3 protease,0,%,HCV polyprotein
+KKKKVEAATYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVEATYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYELV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVEV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVLE,NS3 protease,0,%,HCV polyprotein
+KKKKKVAATYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAAKYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATKVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVKV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVLK,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYTLV,NS3 protease,0,%,HCV polyprotein
+KKKKVVAATYVTV,NS3 protease,0,%,HCV polyprotein
+KKKKGVAATYVLV,NS3 protease,0,%,HCV polyprotein
+KKKKVGAATYVLV,NS3 protease,0,%,HCV polyprotein
+RGIYR,Replication,>500,μM,HCV NS3 helicase protein
+SQVGD,Replication,>500,μM,WNV NS3 helicase protein
+RNPSQVGD,Replication,>500,μM,WNV NS3 helicase protein
+NQVGD,Replication,>500,μM,JEV NS3 helicase protein
+RNPNQVGD,Replication,>500,μM,JEV NS3 helicase protein
+SWLRDIWDWGCEVLSDFK,Virus entry,>5.00,μM,HCV non-structural protein 5A
+SWLRDIWDWSCEVLSDFK,Virus entry,>5.00,μM,HCV non-structural protein 5A
+SWLRDIWDWECEVLSDFK,Virus entry,>5.00,μM,HCV non-structural protein 5A
+SWLRDIWDWKCEVLSDFK,Virus entry,>5.00,μM,HCV non-structural protein 5A
+VLDLIYSLHKQINRGLKKIVL,Viral membrane,>36,μM,HCV non-structural protein 5A
+SWRLDIWDWICESVLDFK,Viral membrane,>30,μM,HCV non-structural protein 5A
+DWLKAFYDKVAEKLKEAF,Viral membrane,>28,μM,HCV non-structural protein 5A
+WICEVLSDFK,Viral membrane,>27,μM,HCV non-structural protein 5A
+CEVLSDFK,Viral membrane,>27,μM,HCV non-structural protein 5A
+GIGKFLHSAKKFGKAFVGEIMNS,Viral membrane,>27,μM,HCV non-structural protein 5A
+SWLRDIWDWICEV,Viral membrane,>27,μM,HCV non-structural protein 5A
+SWLRDIWDWICE,Viral membrane,>27,μM,HCV non-structural protein 5A
+SWLRDIWDWI,Viral membrane,>27,μM,HCV non-structural protein 5A
+SWLRDIWD,Viral membrane,>27,μM,HCV non-structural protein 5A
+LRDIWDWICEVLSDFK,Viral membrane,>27,μM,HCV non-structural protein 5A
+DIWDWICEVLSDFK,Viral membrane,>27,μM,HCV non-structural protein 5A
+WDWICEVLSDFK,Viral membrane,>27,μM,HCV non-structural protein 5A
+GLQLLGFILAFLGWIGAI,Virus entry,>25,μM,Human claudin-1 (CLDN1)
+VSTALPQWRIYSYAGDNI,Virus entry,>25,μM,Human claudin-1 (CLDN1)
+ALPQWRIYSYAGDNIVTA,Virus entry,>25,μM,Human claudin-1 (CLDN1)
+MANAGLQLLGFILA,Virus entry,>25,μM,Human claudin-1 (CLDN1)
+AGALMFAWLLLGLQGIFN,Virus entry,>25,μM,Human claudin-1 (CLDN1)
+MASAGMQILGVVLTLLGW,Virus entry,>25,μM,Human claudin-6 (CLDN6)
+MANSGLQLLGFSMALLGW,Virus entry,>25,μM,Human claudin-7 (CLDN7)
+MASTGLELLGMTLAVLGW,Virus entry,>25,μM,Human claudin-9 (CLDN9)
+LLDCWVRLGRYLLRRLKTPFT,Virus entry,>20,μM,GBVA non-structutal protein 5A
+LDCWVRLGRYLLRRLKTPFTRL,Virus entry,>20,μM,GBVA non-structutal protein 5A
+VRLGRYLLRRLKTPFTRL,Virus entry,>20,μM,GBVA non-structutal protein 5A
+EELRVRLASHLRKLRKRLLRDADDLQKRLAVY,Virus entry,>10,μM,Human apolipoprotein (apoE)
+CEEIRARLSTHLRKMRKRLMRDADDLQKRLAVY,Virus entry,>10,μM,Human apolipoprotein (apoE)
+CEEQAQQIRLQAEAFQARLKSWFEPLVEDM,Virus entry,>10,μM,Human apolipoprotein (apoE)
+CVRLASHLRKLRKRLLRDADDL,Virus entry,>10,μM,Human apolipoprotein (apoE)
+CIRLQAEAFQARLKSWFEPLV,Virus entry,>10,μM,Human apolipoprotein (apoE)
+VRLASHLRKLRKRLLRDADDLIRLQAEAFQARLKSWFEPLV,Virus entry,>10,μM,Human apolipoprotein (apoE)
+LRVRLASHLRKLRKRLLRDADDLQKRLAVY,Virus entry,>10,μM,Human apolipoprotein (apoE)
+EELRVRLASHLRKLRKRLLRDADDL,Virus entry,>10,μM,Human apolipoprotein (apoE)
+VRLASHLRKLRKRLLRDADDLQKRLAVY,Virus entry,>10,μM,Human apolipoprotein (apoE)
+CLRKLRKRLLRC,Virus entry,>10,μM,Human apolipoprotein (apoE)
+HCSLAYGDASTLVVF,Replication,>>1,nM,Synthetic
+HCIYATTNDALIFSV,Replication,>>1,nM,Synthetic
+GELGRIPSDTYDLAVGALHCPFYLVSGLVYLDG,Replication,>>1,nM,Synthetic
+QDCNCSIYPGHITGHRMA,Fusion,-73.14,%,"HCV envelope glycoprotein (E1, E2)"
+DAILHTPGCVPCVREGNA,Fusion,-49.35,%,"HCV envelope glycoprotein (E1, E2)"
+GCVPCVREGNASRCWVAV,Fusion,-4.42,%,"HCV envelope glycoprotein (E1, E2)"
+VATRDGKLPTTQLRRHID,Fusion,-30.83,%,"HCV envelope glycoprotein (E1, E2)"
+VGNWAKVLVVLLLFAGVD,Fusion,-21.07,%,"HCV envelope glycoprotein (E1, E2)"
+SCLTVPASAYQVRNSSGL,Fusion,-17.16,%,"HCV envelope glycoprotein (E1, E2)"
+LPTTQLRRHIDLLVGSAT,Fusion,-1.96,%,"HCV envelope glycoprotein (E1, E2)"
